@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PortfolioSK/static/css/main.2687834a.css",
+    "main.js": "/PortfolioSK/static/js/main.278a9272.js",
+    "static/media/Social Media App.png": "/PortfolioSK/static/media/Social Media App.6e97b923e8a8e3ecbfcd.png",
+    "static/media/reactL.gif": "/PortfolioSK/static/media/reactL.7057f787607f4e7f1bca.gif",
+    "static/media/boy.png": "/PortfolioSK/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/TellsWeather.png": "/PortfolioSK/static/media/TellsWeather.b842094b96c9a29387fd.png",
+    "static/media/React.png": "/PortfolioSK/static/media/React.e90a6f7c0d83b2748879.png",
+    "static/media/GroShopEcom2.png": "/PortfolioSK/static/media/GroShopEcom2.1bb290a44a9502e50bad.png",
+    "static/media/wow.svg": "/PortfolioSK/static/media/wow.065bbfd88bbf23107ffbeae6c32b28ae.svg",
+    "static/media/Skillark.jpg": "/PortfolioSK/static/media/Skillark.458bebbf684f3af6e3bc.jpg",
+    "static/media/KvLogo.jpeg": "/PortfolioSK/static/media/KvLogo.6d4c40150b64111a15b6.jpeg",
+    "static/media/geeksforgeeks.png": "/PortfolioSK/static/media/geeksforgeeks.2dc91b4fef8a6ef1b866.png",
+    "static/media/SQL.png": "/PortfolioSK/static/media/SQL.bce2cdb98f42a6435e5b.png",
+    "static/media/thumbup.png": "/PortfolioSK/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/codingNinja.png": "/PortfolioSK/static/media/codingNinja.66cfa512d6d2d2dd8d0a.png",
+    "static/media/Nodejs.png": "/PortfolioSK/static/media/Nodejs.478c590a266bed215577.png",
+    "static/media/wave.png": "/PortfolioSK/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/PortfolioSK/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/PortfolioSK/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/devfest.webp": "/PortfolioSK/static/media/devfest.5ac4293fd421cf041787.webp",
+    "static/media/gdsclogo.webp": "/PortfolioSK/static/media/gdsclogo.e62ccf3213faa88729bd.webp",
+    "index.html": "/PortfolioSK/index.html",
+    "main.2687834a.css.map": "/PortfolioSK/static/css/main.2687834a.css.map",
+    "main.278a9272.js.map": "/PortfolioSK/static/js/main.278a9272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2687834a.css",
+    "static/js/main.278a9272.js"
+  ]
+}
